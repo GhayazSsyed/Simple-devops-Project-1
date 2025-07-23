@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Afer chanbginh the exec commands no error should come bro  </h1>
+   <h1>Afer chanbginh the exe.  </h1>
 
   
 </form>
