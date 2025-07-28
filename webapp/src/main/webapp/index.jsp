@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Nam--fayaz bhai plumber waleoe"><b>Enter ghayaz name broName</b></label>
+    <label for="Nam--fayaz bhai plumber waleoe"><b>broonamemem ghayyyyyyyyyyame</b></label>
     <input type="text" placeholder="Enter Ffayaz bhai plumber wale:::::;-ull Name" name="Name" id="Name" required>
     <br>
     
